@@ -1,5 +1,5 @@
 
-##　FaceBook的Rebound动画库，之前一直跑不起来，修改了各种gradle配置后总算可以了
+##　FaceBook的Rebound动画库，估计太老了，之前一直跑不起来，修改了各种gradle配置后总算可以了
 
 #Rebound
 [![Build Status](https://travis-ci.org/facebook/rebound.png?branch=master)](https://travis-ci.org/facebook/rebound) 
