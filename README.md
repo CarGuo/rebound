@@ -1,6 +1,10 @@
 
 ##　FaceBook的Rebound动画库，估计太老了，之前一直跑不起来，修改了各种gradle配置后总算可以了
 
+GIF效果有效掉帧，类似这种弹性好过挺好的：
+
+![](https://github.com/CarGuo/rebound/blob/master/01.gif)
+
 #Rebound
 [![Build Status](https://travis-ci.org/facebook/rebound.png?branch=master)](https://travis-ci.org/facebook/rebound) 
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Rebound-blue.svg?style=flat)](https://android-arsenal.com/details/1/30)
